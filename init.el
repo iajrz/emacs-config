@@ -16,6 +16,8 @@
  '(org-todo-keywords (quote ((sequence "TODO" "PROGRESS" "|" "DONE" "CANCELED"))))
  '(scroll-bar-mode nil)
  '(tool-bar-mode nil)
+ '(indent-tabs-mode nil)
+ '(tab-width 4)
  '(visible-bell t))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
